@@ -1,2 +1,2 @@
-docker.io/metallb/controller:v0.15.3
+quay.io/cephcsi/cephcsi:v3.15.0
 
