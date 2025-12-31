@@ -1,2 +1,2 @@
-quay.io/cephcsi/cephcsi:v3.15.0
+quay.io/cephcsi/cephcsi:v3.15.0-amd64
 
