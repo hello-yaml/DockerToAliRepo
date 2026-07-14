@@ -1,3 +1,2 @@
-docker.io/library/openjdk:8-jre-alpine
 docker.io/library/openjdk:17-jre-alpine
 
